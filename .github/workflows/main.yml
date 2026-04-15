@@ -1,30 +1,54 @@
-name: Update Lista IPTV
+name: Update Lista IPTV Smart-Mapping
 
 on:
   schedule:
-    - cron: '0 0,12 * * *' # Ruleaza automat la ora 00:00 si 12:00 (zilnic)
-  workflow_dispatch: # Iti permite sa pornesti manual actualizarea oricand
+    - cron: '0 0,12 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Permisiune pentru a scrie fisierul in repo-ul tau
+      contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Descarcare si curatare lista
+      - name: Procesare Lista cu Auto-Mapping
         run: |
-          # Folosim curl cu timeout si sed pentru inlocuire instantanee in memorie
-          curl -s -L "https://wlog.ro/api/iptv.m3u" | sed 's/ | Wlog.Ro//g' > iptv_curat.m3u
+          # Descarcam lista originala
+          curl -s -L "https://wlog.ro/api/iptv.m3u" > raw.m3u
+          
+          # Folosim un script Python rapid pentru a injecta ID-urile corecte
+          python3 -c "
+          import sys
+          import re
+
+          with open('raw.m3u', 'r', encoding='utf-8') as f:
+              for line in f:
+                  if line.startswith('#EXTINF'):
+                      # Extragem numele canalului dupa virgula si stergem sufixul Wlog
+                      parts = line.split(',', 1)
+                      full_name = parts[1].strip().replace(' | Wlog.Ro', '')
+                      
+                      # Generam ID-ul (scoatem spatii, adaugam .ro) - ex: PROTV.ro
+                      # Folosim upper() pentru a se potrivi cu formatul XML gasit de tine
+                      tvg_id = full_name.replace(' ', '') + '.ro'
+                      
+                      # Generam display name-ul pentru Jellyfin (RO - Nume)
+                      tvg_name = f'RO - {full_name}'
+                      
+                      # Reconstruim linia #EXTINF cu noile atribute de mapping
+                      print(f'#EXTINF:-1 tvg-id=\"{tvg_id}\" tvg-name=\"{tvg_name}\", {full_name}')
+                  else:
+                      print(line, end='')
+          " > iptv_curat.m3u
 
       - name: Salvare modificari pe GitHub
         run: |
-          git config --global user.name "IPTV-Bot"
+          git config --global user.name "IPTV-Bot-Smart"
           git config --global user.email "bot@github.com"
           git add iptv_curat.m3u
-          # Commit-ul se face doar daca s-a schimbat ceva in lista
-          git commit -m "Lista actualizata: $(date +'%d-%m-%Y %H:%M')" || exit 0
+          git commit -m "Auto-mapping injectat: $(date +'%d-%m-%Y %H:%M')" || exit 0
           git push
