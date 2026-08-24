@@ -19,6 +19,8 @@ http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/7002/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.antena3.ro/live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; WlogIPTv/2.0)
 https://live3vox.antenaplay.ro/a3free/a3free.m3u8
+#EXTINF:-1 tvg-id="Antena3Cnn.ro" tvg-name="RO - Antena 3 Cnn", Antena 3 Cnn
+https://streaming.eforie.city/memfs/7223115a-4f22-4e2c-86f5-354552acab7f.m3u8
 #EXTINF:-1 tvg-id="AntenaMonden.ro" tvg-name="RO - Antena Monden", Antena Monden
 https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
 #EXTINF:-1 tvg-id="ArgesTv.ro" tvg-name="RO - Arges Tv", Arges Tv
@@ -62,7 +64,16 @@ https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
 #EXTINF:-1 tvg-id="Digi24.ro" tvg-name="RO - Digi 24", Digi 24
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/7009/index.m3u8
 #EXTINF:-1 tvg-id="DigiSport1.ro" tvg-name="RO - Digi Sport 1", Digi Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; WlogIPTv/2.0)
 https://7nyaler.streamhostingcdn.top/stream/79/index.m3u8
+#EXTINF:-1 tvg-id="DigiSport1(RO).ro" tvg-name="RO - Digi Sport 1 (RO)", Digi Sport 1 (RO)
+http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2523/index.m3u8
+#EXTINF:-1 tvg-id="DigiSport2(RO).ro" tvg-name="RO - Digi Sport 2 (RO)", Digi Sport 2 (RO)
+http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2522/index.m3u8
+#EXTINF:-1 tvg-id="DigiSport3(RO).ro" tvg-name="RO - Digi Sport 3 (RO)", Digi Sport 3 (RO)
+http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2524/index.m3u8
+#EXTINF:-1 tvg-id="DigiSport4(RO).ro" tvg-name="RO - Digi Sport 4 (RO)", Digi Sport 4 (RO)
+http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2538/index.m3u8
 #EXTINF:-1 tvg-id="DottoTv.ro" tvg-name="RO - Dotto Tv", Dotto Tv
 https://live.dottotv.ro/index.m3u8
 #EXTINF:-1 tvg-id="EmiTv.ro" tvg-name="RO - Emi Tv", Emi Tv
@@ -85,10 +96,8 @@ http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/7005/index.m3u8
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/6987/index.m3u8
 #EXTINF:-1 tvg-id="HD365.ro" tvg-name="RO - HD 365", HD 365
 https://s2.netstreaming.eu/hd365.m3u8
-#EXTINF:-1 tvg-id="HD365.ro" tvg-name="RO - HD 365", HD 365
-https://testcam.go.ro:8080/hls/hd365.m3u8
 #EXTINF:-1 tvg-id="Hunedoara1.ro" tvg-name="RO - Hunedoara 1", Hunedoara 1
-https://netstreaming.eu/hd1.m3u8
+https://s2.netstreaming.eu/hd1.m3u8
 #EXTINF:-1 tvg-id="IasiTvLife.ro" tvg-name="RO - Iasi Tv Life", Iasi Tv Life
 https://tv.streambox.ro/hls/itv/index.m3u8
 #EXTINF:-1 tvg-id="ImpactTv1.ro" tvg-name="RO - Impact Tv 1", Impact Tv 1
@@ -100,7 +109,7 @@ https://online.tvimpact.live/hls/dancetv.m3u8
 #EXTINF:-1 tvg-id="ImpactTvManele.ro" tvg-name="RO - Impact Tv Manele", Impact Tv Manele
 https://online.tvimpact.live/hls/impact_tv.m3u8
 #EXTINF:-1 tvg-id="InfoHD.ro" tvg-name="RO - Info HD", Info HD
-https://netstreaming.eu/InfoHd.m3u8
+https://s2.netstreaming.eu/InfoHd.m3u8
 #EXTINF:-1 tvg-id="InformatiaTv.ro" tvg-name="RO - Informatia Tv", Informatia Tv
 https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
 #EXTINF:-1 tvg-id="InfoTv.ro" tvg-name="RO - Info Tv", Info Tv
@@ -124,12 +133,14 @@ https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream.
 #EXTINF:-1 tvg-id="LiraTv.ro" tvg-name="RO - Lira Tv", Lira Tv
 https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
 #EXTINF:-1 tvg-id="M9Tv.ro" tvg-name="RO - M9 Tv", M9 Tv
-https://netstreaming.eu/m9tv.m3u8
+https://s2.netstreaming.eu/m9tv.m3u8
 #EXTINF:-1 tvg-id="MagicTv.ro" tvg-name="RO - Magic Tv", Magic Tv
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 #EXTINF:-1 tvg-id="MdiTv.ro" tvg-name="RO - Mdi Tv", Mdi Tv
 http://188.173.32.4:2222
 #EXTINF:-1 tvg-id="MetropolaTv.ro" tvg-name="RO - Metropola Tv", Metropola Tv
+#EXTVLCOPT:http-referrer=http://www.metropolatv.ro/live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; WlogIPTv/2.0)
 https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 #EXTINF:-1 tvg-id="Mireasa.ro" tvg-name="RO - Mireasa", Mireasa
 https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
@@ -164,6 +175,8 @@ http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/6997/index.m3u8
 #EXTINF:-1 tvg-id="QubTv.ro" tvg-name="RO - Qub Tv", Qub Tv
 https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
 #EXTINF:-1 tvg-id="RapsodiaTv.ro" tvg-name="RO - Rapsodia Tv", Rapsodia Tv
+#EXTVLCOPT:http-referrer=http://92.86.248.141:8080/play/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; WlogIPTv/2.0)
 http://92.86.248.141:8080/ram/playlist.m3u8
 #EXTINF:-1 tvg-id="RealitateaPlus.ro" tvg-name="RO - Realitatea Plus", Realitatea Plus
 https://stream.realitatea.net/realitatea/plus_fq/ts:playlist.m3u8
@@ -205,8 +218,6 @@ https://vdo.ssl-stream.com:3247/stream/play.m3u8
 https://stream.tequilamusic.net/hls/tequila_tv.m3u8
 #EXTINF:-1 tvg-id="TraditionalTv.ro" tvg-name="RO - Traditional Tv", Traditional Tv
 http://83.103.149.75:8085/udp/239.30.0.9:4000
-#EXTINF:-1 tvg-id="Tralala.ro" tvg-name="RO - Tralala", Tralala
-http://86.124.20.15:50001
 #EXTINF:-1 tvg-id="Tv1.ro" tvg-name="RO - Tv 1", Tv 1
 https://s2.netstreaming.eu/tv1.m3u8
 #EXTINF:-1 tvg-id="TvArad.ro" tvg-name="RO - Tv Arad", Tv Arad
@@ -215,6 +226,10 @@ https://live.djemba.ro/memfs/1b01c281-126d-4787-9d51-9e06c96bb9f9.m3u8
 http://78.96.33.89:8080
 #EXTINF:-1 tvg-id="TvPlusRegional.ro" tvg-name="RO - Tv Plus Regional", Tv Plus Regional
 http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
+#EXTINF:-1 tvg-id="TvSat.ro" tvg-name="RO - Tv Sat", Tv Sat
+http://89.38.8.130:39443
+#EXTINF:-1 tvg-id="TvSud.ro" tvg-name="RO - Tv Sud", Tv Sud
+https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8
 #EXTINF:-1 tvg-id="Tvr1.ro" tvg-name="RO - Tvr 1", Tvr 1
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Tvr2.ro" tvg-name="RO - Tvr 2", Tvr 2
@@ -241,18 +256,14 @@ https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
 https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TvrTimisoara.ro" tvg-name="RO - Tvr Timisoara", Tvr Timisoara
 https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TvSat.ro" tvg-name="RO - Tv Sat", Tv Sat
-http://89.38.8.130:39443
-#EXTINF:-1 tvg-id="TvSud.ro" tvg-name="RO - Tv Sud", Tv Sud
-https://stream2.live-stream.ro/WebRTCApp/streams/118334672595255049029831.m3u8
+#EXTINF:-1 tvg-id="Avva(MD).ro" tvg-name="RO - Avva (MD)", Avva (MD)
+http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2442/index.m3u8
 #EXTINF:-1 tvg-id="BusuiocTv(MD).ro" tvg-name="RO - Busuioc Tv (MD)", Busuioc Tv (MD)
 https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/master.m3u8
 #EXTINF:-1 tvg-id="Cinema1(MD).ro" tvg-name="RO - Cinema 1 (MD)", Cinema 1 (MD)
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2447/index.m3u8
 #EXTINF:-1 tvg-id="ExclusivTv(MD).ro" tvg-name="RO - Exclusiv Tv (MD)", Exclusiv Tv (MD)
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2463/index.m3u8
-#EXTINF:-1 tvg-id="ExclusivTv(MD).ro" tvg-name="RO - Exclusiv Tv (MD)", Exclusiv Tv (MD)
-http://188.138.130.175:5004
 #EXTINF:-1 tvg-id="GRT(MD).ro" tvg-name="RO - GRT (MD)", GRT (MD)
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2448/index.m3u8
 #EXTINF:-1 tvg-id="GurinelTv(MD).ro" tvg-name="RO - Gurinel Tv (MD)", Gurinel Tv (MD)
@@ -264,9 +275,9 @@ https://v.trm.md/static/streaming-playlists/hls/6b3b523a-6a02-444c-8129-8354bbef
 #EXTINF:-1 tvg-id="Moldova2(MD).ro" tvg-name="RO - Moldova 2 (MD)", Moldova 2 (MD)
 https://v0.trm.md/static/streaming-playlists/hls/d5fafab0-9c37-4746-9e7a-b2d6c0427015/master.m3u8
 #EXTINF:-1 tvg-id="N4(MD).ro" tvg-name="RO - N 4 (MD)", N 4 (MD)
-http://93.115.138.193:4935/live/live_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="N4(MD).ro" tvg-name="RO - N 4 (MD)", N 4 (MD)
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2460/index.m3u8
+#EXTINF:-1 tvg-id="N4(MD).ro" tvg-name="RO - N 4 (MD)", N 4 (MD)
+http://93.115.138.193:4935/live/live_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="NorocTv(MD).ro" tvg-name="RO - Noroc Tv (MD)", Noroc Tv (MD)
 https://media.noroc.tv/noroc/bitrate_1080p.m3u8
 #EXTINF:-1 tvg-id="OneTv(MD).ro" tvg-name="RO - One Tv (MD)", One Tv (MD)
@@ -275,8 +286,6 @@ http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2451/index.m3u8
 https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
 #EXTINF:-1 tvg-id="ProTvChisinau(MD).ro" tvg-name="RO - Pro Tv Chisinau (MD)", Pro Tv Chisinau (MD)
 https://stream.protv.md/live/sursa-1/index.m3u8
-#EXTINF:-1 tvg-id="ProTvChisinau(MD).ro" tvg-name="RO - Pro Tv Chisinau (MD)", Pro Tv Chisinau (MD)
-http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2456/index.m3u8
 #EXTINF:-1 tvg-id="RealitateaLive(MD).ro" tvg-name="RO - Realitatea Live (MD)", Realitatea Live (MD)
 #EXTVLCOPT:http-referrer=https://rlive.md/
 https://realitatealive.md/tv/rlive.m3u8
@@ -306,3 +315,11 @@ https://media.voceabasarabiei.md/vocea/bitrate_1080p.m3u8
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2471/index.m3u8
 #EXTINF:-1 tvg-id="ZonaM(MD).ro" tvg-name="RO - Zona M (MD)", Zona M (MD)
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2470/index.m3u8
+#EXTINF:-1 tvg-id="XYZ(MD).ro" tvg-name="RO - XYZ (MD)", XYZ (MD)
+http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2494/index.m3u8
+#EXTINF:-1 tvg-id="HBOMax(UK).ro" tvg-name="RO - HBO Max (UK)", HBO Max (UK)
+http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2509/index.m3u8
+#EXTINF:-1 tvg-id="TntSports1(UK).ro" tvg-name="RO - Tnt Sports 1 (UK)", Tnt Sports 1 (UK)
+http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2505/index.m3u8
+#EXTINF:-1 tvg-id="TntSports2(UK).ro" tvg-name="RO - Tnt Sports 2 (UK)", Tnt Sports 2 (UK)
+http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2509/index.m3u8
