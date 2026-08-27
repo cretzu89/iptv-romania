@@ -297,6 +297,8 @@ http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2460/index.m3u8
 http://93.115.138.193:4935/live/live_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="NorocTv(MD).ro" tvg-name="RO - Noroc Tv (MD)", Noroc Tv (MD)
 https://media.noroc.tv/noroc/bitrate_1080p.m3u8
+#EXTINF:-1 tvg-id="NTS(MD).ro" tvg-name="RO - NTS (MD)", NTS (MD)
+http://5.56.77.9:50000
 #EXTINF:-1 tvg-id="OneTv(MD).ro" tvg-name="RO - One Tv (MD)", One Tv (MD)
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2451/index.m3u8
 #EXTINF:-1 tvg-id="PrivescEu(MD).ro" tvg-name="RO - Privesc Eu (MD)", Privesc Eu (MD)
