@@ -87,6 +87,18 @@ https://stream.nstiri.com/hls/stream.m3u8
 http://89.38.8.130:39419
 #EXTINF:-1 tvg-id="FavoritTv.ro" tvg-name="RO - Favorit Tv", Favorit Tv
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/6979/index.m3u8
+#EXTINF:-1 tvg-id="FightBox.ro" tvg-name="RO - FightBox", FightBox
+https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
+#EXTINF:-1 tvg-id="FilmBox+Comedy.ro" tvg-name="RO - FilmBox+ Comedy", FilmBox+ Comedy
+https://nosignal1.antenaplay.ro/hls/fb-comedy-hd/index.m3u8
+#EXTINF:-1 tvg-id="FilmBox+Festival.ro" tvg-name="RO - FilmBox+ Festival", FilmBox+ Festival
+https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8
+#EXTINF:-1 tvg-id="FilmBox+Hits.ro" tvg-name="RO - FilmBox+ Hits", FilmBox+ Hits
+https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8
+#EXTINF:-1 tvg-id="FilmBox+Love&Crime.ro" tvg-name="RO - FilmBox+ Love & Crime", FilmBox+ Love & Crime
+https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8
+#EXTINF:-1 tvg-id="FilmBox+One.ro" tvg-name="RO - FilmBox+ One", FilmBox+ One
+https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
 #EXTINF:-1 tvg-id="FilmBoxExtra.ro" tvg-name="RO - FilmBox Extra", FilmBox Extra
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/6996/index.m3u8
 #EXTINF:-1 tvg-id="FilmNow.ro" tvg-name="RO - Film Now", Film Now
