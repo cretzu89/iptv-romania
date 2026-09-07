@@ -10,7 +10,7 @@ https://streamw.m.ro/Aleph/Alephnewsmain.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlephSmartTv.ro" tvg-name="RO - Aleph Smart Tv", Aleph Smart Tv
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsbackup.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Alfa&Omega.ro" tvg-name="RO - Alfa & Omega", Alfa & Omega
-https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
+https://aom-live02.maghost.ro/aomTV/streams/Dio0mrjVgThWkcZy628619722360.m3u8
 #EXTINF:-1 tvg-id="AngelusTvErcis.ro" tvg-name="RO - Angelus Tv Ercis", Angelus Tv Ercis
 https://video.angelustv.ro/hls/angelustv.m3u8
 #EXTINF:-1 tvg-id="Antena1.ro" tvg-name="RO - Antena 1", Antena 1
@@ -64,9 +64,9 @@ http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
 #EXTINF:-1 tvg-id="CredoTv.ro" tvg-name="RO - Credo Tv", Credo Tv
 https://651c69fa2ff4e.streamlock.net/ctv/livecredo/playlist.m3u8
 #EXTINF:-1 tvg-id="Digi24.ro" tvg-name="RO - Digi 24", Digi 24
-https://dai.google.com/linear/hls/event/OQfdjUhHSDSlb1fJVzehsQ/master.m3u8
-#EXTINF:-1 tvg-id="Digi24.ro" tvg-name="RO - Digi 24", Digi 24
 https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8
+#EXTINF:-1 tvg-id="Digi24.ro" tvg-name="RO - Digi 24", Digi 24
+https://dai.google.com/linear/hls/event/OQfdjUhHSDSlb1fJVzehsQ/master.m3u8
 #EXTINF:-1 tvg-id="Digi24.ro" tvg-name="RO - Digi 24", Digi 24
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/7009/index.m3u8
 #EXTINF:-1 tvg-id="DigiSport1.ro" tvg-name="RO - Digi Sport 1", Digi Sport 1
@@ -116,7 +116,7 @@ https://s2.netstreaming.eu/InfoHd.m3u8
 #EXTINF:-1 tvg-id="InformatiaTv.ro" tvg-name="RO - Informatia Tv", Informatia Tv
 https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
 #EXTINF:-1 tvg-id="InfoTv.ro" tvg-name="RO - Info Tv", Info Tv
-https://rumble.com/live-hls-dvr/HSsZ5KWYwF0/playlist.m3u8
+https://rumble.com/live-hls-dvr/DI0xl38igak/playlist.m3u8
 #EXTINF:-1 tvg-id="IntermediaTv.ro" tvg-name="RO - Intermedia Tv", Intermedia Tv
 https://live.intermediatv.ro/ram/playlist.m3u8
 #EXTINF:-1 tvg-id="JobTv.ro" tvg-name="RO - Job Tv", Job Tv
@@ -150,7 +150,7 @@ https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 #EXTINF:-1 tvg-id="MisaTv.ro" tvg-name="RO - Misa Tv", Misa Tv
 https://vidh.youniverse.name:5050/MSTV/romanian_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="MoinestiTv.ro" tvg-name="RO - Moinesti Tv", Moinesti Tv
-https://de.moinestifm.ro/hls/moinesti_tv/1/index.m3u8
+https://de.moinestifm.ro/hls/moinesti_tv/index.m3u8
 #EXTINF:-1 tvg-id="MoldovaTv.ro" tvg-name="RO - Moldova Tv", Moldova Tv
 https://moldovatv.ro/live-tv/live.m3u8
 #EXTINF:-1 tvg-id="MoldovaTv.ro" tvg-name="RO - Moldova Tv", Moldova Tv
@@ -312,7 +312,7 @@ https://video.sortv.md/wowza/live/Sunet/playlist.m3u8
 http://188.237.212.16:8888/live/cameraFeed.m3u8
 #EXTINF:-1 tvg-id="StarTv(MD).ro" tvg-name="RO - Star Tv (MD)", Star Tv (MD)
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2465/index.m3u8
-#EXTINF:-1 tvg-id="Tcb(MD).ro" tvg-name="RO - Tcb (MD)", Tcb (MD)
+#EXTINF:-1 tvg-id="TCB(MD).ro" tvg-name="RO - TCB (MD)", TCB (MD)
 https://tsv.md/stream/hls/tsv-online/index.m3u8
 #EXTINF:-1 tvg-id="TezaurTv(MD).ro" tvg-name="RO - Tezaur Tv (MD)", Tezaur Tv (MD)
 https://tezaurtv.md/stream/index.m3u8
@@ -321,7 +321,7 @@ http://tezaur.mlbfan.org/tezaur/index.m3u8
 #EXTINF:-1 tvg-id="Tv8(MD).ro" tvg-name="RO - Tv 8 (MD)", Tv 8 (MD)
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2454/index.m3u8
 #EXTINF:-1 tvg-id="TvNord(MD).ro" tvg-name="RO - Tv Nord (MD)", Tv Nord (MD)
-https://6065d3147e895.streamlock.net:4444/npcl/live/playlist.m3u8
+https://stream.bliss.md/hls/t.m3u8
 #EXTINF:-1 tvg-id="TvrMoldova(MD).ro" tvg-name="RO - Tvr Moldova (MD)", Tvr Moldova (MD)
 https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UnuTv(MD).ro" tvg-name="RO - Unu Tv (MD)", Unu Tv (MD)
