@@ -14,6 +14,8 @@ https://aom-live02.maghost.ro/aomTV/streams/Dio0mrjVgThWkcZy628619722360.m3u8
 #EXTINF:-1 tvg-id="AngelusTvErcis.ro" tvg-name="RO - Angelus Tv Ercis", Angelus Tv Ercis
 https://video.angelustv.ro/hls/angelustv.m3u8
 #EXTINF:-1 tvg-id="Antena1.ro" tvg-name="RO - Antena 1", Antena 1
+https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8
+#EXTINF:-1 tvg-id="Antena1.ro" tvg-name="RO - Antena 1", Antena 1
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/7002/index.m3u8
 #EXTINF:-1 tvg-id="Antena3Cnn.ro" tvg-name="RO - Antena 3 Cnn", Antena 3 Cnn
 #EXTVLCOPT:http-referrer=https://www.antena3.ro/live
@@ -21,12 +23,16 @@ http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/7002/index.m3u8
 https://live3vox.antenaplay.ro/a3free/a3free.m3u8
 #EXTINF:-1 tvg-id="Antena3Constanta.ro" tvg-name="RO - Antena 3 Constanta", Antena 3 Constanta
 https://streaming.eforie.city/memfs/7223115a-4f22-4e2c-86f5-354552acab7f.m3u8
+#EXTINF:-1 tvg-id="AntenaInt..ro" tvg-name="RO - Antena Int.", Antena Int.
+https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8
 #EXTINF:-1 tvg-id="AntenaMonden.ro" tvg-name="RO - Antena Monden", Antena Monden
 https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
 #EXTINF:-1 tvg-id="ArgesTv.ro" tvg-name="RO - Arges Tv", Arges Tv
 https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
 #EXTINF:-1 tvg-id="AsTv.ro" tvg-name="RO - As Tv", As Tv
 https://s2.netstreaming.eu/astv.m3u8
+#EXTINF:-1 tvg-id="AsiaExpress.ro" tvg-name="RO - Asia Express", Asia Express
+https://live4dai.antenaplay.ro/live2_sport05/live2_sport05_600k.m3u8
 #EXTINF:-1 tvg-id="AtomicAcademy.ro" tvg-name="RO - Atomic Academy", Atomic Academy
 https://atomic.streamnet.ro/academia.m3u8
 #EXTINF:-1 tvg-id="AtomicTv.ro" tvg-name="RO - Atomic Tv", Atomic Tv
@@ -103,6 +109,8 @@ https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/6996/index.m3u8
 #EXTINF:-1 tvg-id="FilmNow.ro" tvg-name="RO - Film Now", Film Now
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/6999/index.m3u8
+#EXTINF:-1 tvg-id="HappyChannel.ro" tvg-name="RO - Happy Channel", Happy Channel
+https://live4dai.antenaplay.ro/live2_sdi13/live2_sdi13_600k.m3u8
 #EXTINF:-1 tvg-id="HBO.ro" tvg-name="RO - HBO", HBO
 http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/6986/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.ro" tvg-name="RO - HBO 2", HBO 2
@@ -129,6 +137,10 @@ https://s2.netstreaming.eu/InfoHd.m3u8
 https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
 #EXTINF:-1 tvg-id="InfoTv.ro" tvg-name="RO - Info Tv", Info Tv
 https://rumble.com/live-hls-dvr/DI0xl38igak/playlist.m3u8
+#EXTINF:-1 tvg-id="InsulaIubirii.ro" tvg-name="RO - Insula Iubirii", Insula Iubirii
+https://live4dai.antenaplay.ro/live2_sdi10/live2_sdi10_600k.m3u8
+#EXTINF:-1 tvg-id="InsulaIubirii.ro" tvg-name="RO - Insula Iubirii", Insula Iubirii
+https://live4dai.antenaplay.ro/live2_sdi05/live2_sdi05_600k.m3u8
 #EXTINF:-1 tvg-id="IntermediaTv.ro" tvg-name="RO - Intermedia Tv", Intermedia Tv
 https://live.intermediatv.ro/ram/playlist.m3u8
 #EXTINF:-1 tvg-id="JobTv.ro" tvg-name="RO - Job Tv", Job Tv
