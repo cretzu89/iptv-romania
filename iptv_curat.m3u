@@ -39,6 +39,8 @@ https://atomic.streamnet.ro/atomictv.m3u8
 http://188.211.27.160:4001
 #EXTINF:-1 tvg-id="BanatTv.ro" tvg-name="RO - Banat Tv", Banat Tv
 https://www.btv.ro/hls/banat-tv.m3u8
+#EXTINF:-1 tvg-id="BihorTv.ro" tvg-name="RO - Bihor Tv", Bihor Tv
+https://bihor-tv.ro/hls/bihortv.m3u8
 #EXTINF:-1 tvg-id="BollywoodClasic.ro" tvg-name="RO - Bollywood Clasic", Bollywood Clasic
 https://tvextra-hls.b-cdn.net/bollywood/bollywood.m3u8
 #EXTINF:-1 tvg-id="BollywoodFilm.ro" tvg-name="RO - Bollywood Film", Bollywood Film
