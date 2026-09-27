@@ -51,8 +51,12 @@ https://tvboom.ro/live-tv/live.m3u8
 https://www.bucovinatv.ro/proxy/video/playlist.m3u8
 #EXTINF:-1 tvg-id="CampusTv.ro" tvg-name="RO - Campus Tv", Campus Tv
 http://82.208.182.135:8080
+#EXTINF:-1 tvg-id="CanalSud.ro" tvg-name="RO - Canal Sud", Canal Sud
+https://rumble.com/live-hls-dvr/3XQdP1AmOTU/playlist.m3u8
 #EXTINF:-1 tvg-id="CineWow.ro" tvg-name="RO - Cine Wow", Cine Wow
 https://tvextra-hls.b-cdn.net/cinewow/cinewow.m3u8
+#EXTINF:-1 tvg-id="CinemaratonPlus.ro" tvg-name="RO - Cinemaraton Plus", Cinemaraton Plus
+https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
 #EXTINF:-1 tvg-id="ColumnaTv.ro" tvg-name="RO - Columna Tv", Columna Tv
 http://live.columnatv.ro:1935/columnatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyPlay.ro" tvg-name="RO - Comedy Play", Comedy Play
@@ -69,6 +73,8 @@ https://dai.google.com/linear/hls/event/OQfdjUhHSDSlb1fJVzehsQ/master.m3u8
 https://live.dottotv.ro/index.m3u8
 #EXTINF:-1 tvg-id="EmiTv.ro" tvg-name="RO - Emi Tv", Emi Tv
 https://astra.emitv.ro/hls/emi/index.m3u8
+#EXTINF:-1 tvg-id="EtnoTv.ro" tvg-name="RO - Etno Tv", Etno Tv
+https://hls02ns.antenaplay.ro/hls/etno-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="EuropaNova.ro" tvg-name="RO - Europa Nova", Europa Nova
 https://stream.nstiri.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Exploris.ro" tvg-name="RO - Exploris", Exploris
@@ -101,12 +107,14 @@ https://online.tvimpact.live/hls/impact_tv2.m3u8
 https://online.tvimpact.live/hls/dancetv.m3u8
 #EXTINF:-1 tvg-id="ImpactTvManele.ro" tvg-name="RO - Impact Tv Manele", Impact Tv Manele
 https://online.tvimpact.live/hls/impact_tv.m3u8
+#EXTINF:-1 tvg-id="IneditTv.ro" tvg-name="RO - Inedit Tv", Inedit Tv
+https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8
 #EXTINF:-1 tvg-id="InfoHD.ro" tvg-name="RO - Info HD", Info HD
 https://s2.netstreaming.eu/InfoHd.m3u8
 #EXTINF:-1 tvg-id="InformatiaTv.ro" tvg-name="RO - Informatia Tv", Informatia Tv
 https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
 #EXTINF:-1 tvg-id="InfoTv.ro" tvg-name="RO - Info Tv", Info Tv
-https://rumble.com/live-hls-dvr/DI0xl38igak/playlist.m3u8
+https://rumble.com/live-hls-dvr/Wxq-uSzOUUs/playlist.m3u8
 #EXTINF:-1 tvg-id="InsulaIubirii.ro" tvg-name="RO - Insula Iubirii", Insula Iubirii
 https://live4dai.antenaplay.ro/live2_sdi10/live2_sdi10_600k.m3u8
 #EXTINF:-1 tvg-id="InsulaIubirii.ro" tvg-name="RO - Insula Iubirii", Insula Iubirii
@@ -167,10 +175,16 @@ https://vdo.ssl-stream.com:3369/stream/play.m3u8
 https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="NasulTv.ro" tvg-name="RO - Nasul Tv", Nasul Tv
 https://live.nasul.tv/live/stream.m3u8
+#EXTINF:-1 tvg-id="NationalTv.ro" tvg-name="RO - National Tv", National Tv
+https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="N24Plus.ro" tvg-name="RO - N24 Plus", N24 Plus
+https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
 #EXTINF:-1 tvg-id="NovaPressTv.ro" tvg-name="RO - Nova Press Tv", Nova Press Tv
 http://novapress.ro:2022/live/nova/playlist.m3u8
 #EXTINF:-1 tvg-id="PloiestiTv.ro" tvg-name="RO - Ploiesti Tv", Ploiesti Tv
 https://v1.mediastreaming.ro/stream/hls/ploiestitv.m3u8
+#EXTINF:-1 tvg-id="PrimaNews.ro" tvg-name="RO - Prima News", Prima News
+https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
 #EXTINF:-1 tvg-id="QubTv.ro" tvg-name="RO - Qub Tv", Qub Tv
 https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
 #EXTINF:-1 tvg-id="RapsodiaTv.ro" tvg-name="RO - Rapsodia Tv", Rapsodia Tv
@@ -195,6 +209,8 @@ https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
 https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
 #EXTINF:-1 tvg-id="RtnChicago.ro" tvg-name="RO - Rtn Chicago", Rtn Chicago
 https://651c69fa2ff4e.streamlock.net/3707/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="SangeorzTv.ro" tvg-name="RO - Sangeorz Tv", Sangeorz Tv
+https://live.sangeorztv.ro:8443/live/index.m3u8?cookieCheck=1
 #EXTINF:-1 tvg-id="SensTv.ro" tvg-name="RO - Sens Tv", Sens Tv
 https://live.senstv.ro/live/senstv_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="SperantaTv.ro" tvg-name="RO - Speranta Tv", Speranta Tv
@@ -215,6 +231,8 @@ https://vdo.ssl-stream.com:3247/stream/play.m3u8
 https://stream.tequilamusic.net/hls/tequila_tv.m3u8
 #EXTINF:-1 tvg-id="TraditionalTv.ro" tvg-name="RO - Traditional Tv", Traditional Tv
 http://83.103.149.75:8085/udp/239.30.0.9:4000
+#EXTINF:-1 tvg-id="Tralala.ro" tvg-name="RO - Tralala", Tralala
+https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8
 #EXTINF:-1 tvg-id="Tv1.ro" tvg-name="RO - Tv 1", Tv 1
 https://s2.netstreaming.eu/tv1.m3u8
 #EXTINF:-1 tvg-id="TvArad.ro" tvg-name="RO - Tv Arad", Tv Arad
@@ -254,9 +272,7 @@ https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TvrTimisoara.ro" tvg-name="RO - Tvr Timisoara", Tvr Timisoara
 https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BusuiocTv(MD).ro" tvg-name="RO - Busuioc Tv (MD)", Busuioc Tv (MD)
-https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/master.m3u8
-#EXTINF:-1 tvg-id="DrochiaTv(MD).ro" tvg-name="RO - Drochia Tv (MD)", Drochia Tv (MD)
-http://89.41.66.141:8000/tvdrochia
+https://live.busuioctv.md/hls/busuioctv/index.m3u8
 #EXTINF:-1 tvg-id="Moldova1(MD).ro" tvg-name="RO - Moldova 1 (MD)", Moldova 1 (MD)
 https://v.trm.md/static/streaming-playlists/hls/6b3b523a-6a02-444c-8129-8354bbeffbc9/master.m3u8
 #EXTINF:-1 tvg-id="Moldova2(MD).ro" tvg-name="RO - Moldova 2 (MD)", Moldova 2 (MD)
@@ -284,6 +300,8 @@ https://tsv.md/stream/hls/tsv-online/index.m3u8
 https://tezaurtv.md/stream/index.m3u8
 #EXTINF:-1 tvg-id="TezaurTv(MD).ro" tvg-name="RO - Tezaur Tv (MD)", Tezaur Tv (MD)
 http://tezaur.mlbfan.org/tezaur/index.m3u8
+#EXTINF:-1 tvg-id="TvDrochia(MD).ro" tvg-name="RO - Tv Drochia (MD)", Tv Drochia (MD)
+http://89.41.66.141:8000/tvdrochia
 #EXTINF:-1 tvg-id="TvNord(MD).ro" tvg-name="RO - Tv Nord (MD)", Tv Nord (MD)
 https://stream.bliss.md/hls/t.m3u8
 #EXTINF:-1 tvg-id="TvrMoldova(MD).ro" tvg-name="RO - Tvr Moldova (MD)", Tvr Moldova (MD)
