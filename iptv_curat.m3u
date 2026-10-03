@@ -37,6 +37,8 @@ https://atomic.streamnet.ro/academia.m3u8
 https://atomic.streamnet.ro/atomictv.m3u8
 #EXTINF:-1 tvg-id="AutenticTv.ro" tvg-name="RO - Autentic Tv", Autentic Tv
 http://188.211.27.160:4001
+#EXTINF:-1 tvg-id="B1Tv.ro" tvg-name="RO - B1 Tv", B1 Tv
+https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
 #EXTINF:-1 tvg-id="BanatTv.ro" tvg-name="RO - Banat Tv", Banat Tv
 https://www.btv.ro/hls/banat-tv.m3u8
 #EXTINF:-1 tvg-id="BihorTv.ro" tvg-name="RO - Bihor Tv", Bihor Tv
@@ -52,7 +54,7 @@ https://www.bucovinatv.ro/proxy/video/playlist.m3u8
 #EXTINF:-1 tvg-id="CampusTv.ro" tvg-name="RO - Campus Tv", Campus Tv
 http://82.208.182.135:8080
 #EXTINF:-1 tvg-id="CanalSud.ro" tvg-name="RO - Canal Sud", Canal Sud
-https://rumble.com/live-hls-dvr/3XQdP1AmOTU/playlist.m3u8
+https://rumble.com/live-hls-dvr/3XQdP1AmOTU/playlist.m3u8?level=1
 #EXTINF:-1 tvg-id="CineWow.ro" tvg-name="RO - Cine Wow", Cine Wow
 https://tvextra-hls.b-cdn.net/cinewow/cinewow.m3u8
 #EXTINF:-1 tvg-id="CinemaratonPlus.ro" tvg-name="RO - Cinemaraton Plus", Cinemaraton Plus
@@ -75,6 +77,8 @@ https://live.dottotv.ro/index.m3u8
 https://astra.emitv.ro/hls/emi/index.m3u8
 #EXTINF:-1 tvg-id="EtnoTv.ro" tvg-name="RO - Etno Tv", Etno Tv
 https://hls02ns.antenaplay.ro/hls/etno-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="Euronews.ro" tvg-name="RO - Euronews", Euronews
+https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8
 #EXTINF:-1 tvg-id="EuropaNova.ro" tvg-name="RO - Europa Nova", Europa Nova
 https://stream.nstiri.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Exploris.ro" tvg-name="RO - Exploris", Exploris
@@ -114,7 +118,7 @@ https://s2.netstreaming.eu/InfoHd.m3u8
 #EXTINF:-1 tvg-id="InformatiaTv.ro" tvg-name="RO - Informatia Tv", Informatia Tv
 https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
 #EXTINF:-1 tvg-id="InfoTv.ro" tvg-name="RO - Info Tv", Info Tv
-https://rumble.com/live-hls-dvr/Wxq-uSzOUUs/playlist.m3u8
+https://rumble.com/live-hls-dvr/u8-OEMjYbNw/playlist.m3u8?level=1
 #EXTINF:-1 tvg-id="InsulaIubirii.ro" tvg-name="RO - Insula Iubirii", Insula Iubirii
 https://live4dai.antenaplay.ro/live2_sdi10/live2_sdi10_600k.m3u8
 #EXTINF:-1 tvg-id="InsulaIubirii.ro" tvg-name="RO - Insula Iubirii", Insula Iubirii
@@ -181,6 +185,8 @@ https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
 https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
 #EXTINF:-1 tvg-id="NovaPressTv.ro" tvg-name="RO - Nova Press Tv", Nova Press Tv
 http://novapress.ro:2022/live/nova/playlist.m3u8
+#EXTINF:-1 tvg-id="ProTv.ro" tvg-name="RO - Pro Tv", Pro Tv
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="PloiestiTv.ro" tvg-name="RO - Ploiesti Tv", Ploiesti Tv
 https://v1.mediastreaming.ro/stream/hls/ploiestitv.m3u8
 #EXTINF:-1 tvg-id="PrimaNews.ro" tvg-name="RO - Prima News", Prima News
