@@ -240,7 +240,7 @@ https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
 #EXTINF:-1 tvg-id="RtnChicago.ro" tvg-name="RO - Rtn Chicago", Rtn Chicago
 https://651c69fa2ff4e.streamlock.net/3707/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="SangeorzTv.ro" tvg-name="RO - Sangeorz Tv", Sangeorz Tv
-https://live.sangeorztv.ro:8443/live/index.m3u8?cookieCheck=1
+https://live.sangeorztv.ro:8443/live/index.m3u8
 #EXTINF:-1 tvg-id="SensTv.ro" tvg-name="RO - Sens Tv", Sens Tv
 https://live.senstv.ro/live/senstv_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="SperantaTv.ro" tvg-name="RO - Speranta Tv", Speranta Tv
