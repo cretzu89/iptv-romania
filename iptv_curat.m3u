@@ -10,7 +10,7 @@ https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 #EXTINF:-1 tvg-id="AlephBusiness.ro" tvg-name="RO - Aleph Business", Aleph Business
 https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AlephNews.ro" tvg-name="RO - Aleph News", Aleph News
-https://streamw.m.ro/Aleph/Alephnewsmain.stream/playlist.m3u8
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AlephSmartTv.ro" tvg-name="RO - Aleph Smart Tv", Aleph Smart Tv
 https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsbackup.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Alfa&Omega.ro" tvg-name="RO - Alfa & Omega", Alfa & Omega
@@ -27,6 +27,8 @@ https://live3vox.antenaplay.ro/a3free/a3free.m3u8
 https://live4dai.antenaplay.ro/live2_aws4_sdi11/live2_aws4_sdi11_600k.m3u8
 #EXTINF:-1 tvg-id="Antena3Constanta.ro" tvg-name="RO - Antena 3 Constanta", Antena 3 Constanta
 https://streaming.eforie.city/memfs/7223115a-4f22-4e2c-86f5-354552acab7f.m3u8
+#EXTINF:-1 tvg-id="Antena3Suceava.ro" tvg-name="RO - Antena 3 Suceava", Antena 3 Suceava
+https://livestream.a3sv.ro/master.m3u8
 #EXTINF:-1 tvg-id="AntenaInt..ro" tvg-name="RO - Antena Int.", Antena Int.
 https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8
 #EXTINF:-1 tvg-id="AntenaMonden.ro" tvg-name="RO - Antena Monden", Antena Monden
@@ -49,10 +51,6 @@ https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
 https://www.btv.ro/hls/banat-tv.m3u8
 #EXTINF:-1 tvg-id="BihorTv.ro" tvg-name="RO - Bihor Tv", Bihor Tv
 https://bihor-tv.ro/hls/bihortv.m3u8
-#EXTINF:-1 tvg-id="BollywoodClasic.ro" tvg-name="RO - Bollywood Clasic", Bollywood Clasic
-https://tvextra-hls.b-cdn.net/bollywood/bollywood.m3u8
-#EXTINF:-1 tvg-id="BollywoodFilm.ro" tvg-name="RO - Bollywood Film", Bollywood Film
-https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
 #EXTINF:-1 tvg-id="BoomTv.ro" tvg-name="RO - Boom Tv", Boom Tv
 https://tvboom.ro/live-tv/live.m3u8
 #EXTINF:-1 tvg-id="BucovinaTv.ro" tvg-name="RO - Bucovina Tv", Bucovina Tv
@@ -60,9 +58,9 @@ https://www.bucovinatv.ro/proxy/video/playlist.m3u8
 #EXTINF:-1 tvg-id="CampusTv.ro" tvg-name="RO - Campus Tv", Campus Tv
 http://82.208.182.135:8080
 #EXTINF:-1 tvg-id="CanalSud.ro" tvg-name="RO - Canal Sud", Canal Sud
-https://rumble.com/live-hls-dvr/M9X7LQLsP1s/playlist.m3u8?level=1
+https://rumble.com/hls-vod/M9X7LQLsP1s/playlist.m3u8
 #EXTINF:-1 tvg-id="CineWow.ro" tvg-name="RO - Cine Wow", Cine Wow
-https://tvextra-hls.b-cdn.net/cinewow/cinewow.m3u8
+https://hls01ns.antenaplay.ro/hls/cinewow-sd/index.m3u8
 #EXTINF:-1 tvg-id="CinemaratonPlus.ro" tvg-name="RO - Cinemaraton Plus", Cinemaraton Plus
 https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
 #EXTINF:-1 tvg-id="ColumnaTv.ro" tvg-name="RO - Columna Tv", Columna Tv
@@ -173,16 +171,6 @@ https://de.moinestifm.ro/hls/moinesti_tv/index.m3u8
 https://moldovatv.ro/live-tv/live.m3u8
 #EXTINF:-1 tvg-id="MoldovaTv.ro" tvg-name="RO - Moldova Tv", Moldova Tv
 http://89.38.8.130:39435
-#EXTINF:-1 tvg-id="MoozDance.ro" tvg-name="RO - Mooz Dance", Mooz Dance
-https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8
-#EXTINF:-1 tvg-id="MoozHits.ro" tvg-name="RO - Mooz Hits", Mooz Hits
-https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8
-#EXTINF:-1 tvg-id="MoozLove.ro" tvg-name="RO - Mooz Love", Mooz Love
-https://tvextra-hls.b-cdn.net/moozlove/moozlove.m3u8
-#EXTINF:-1 tvg-id="MoozRetro.ro" tvg-name="RO - Mooz Retro", Mooz Retro
-https://tvextra-hls.b-cdn.net/moozretro/moozretro.m3u8
-#EXTINF:-1 tvg-id="MoozRo.ro" tvg-name="RO - Mooz Ro", Mooz Ro
-https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8
 #EXTINF:-1 tvg-id="MPlusTvIasi.ro" tvg-name="RO - M Plus Tv Iasi", M Plus Tv Iasi
 https://vdo.ssl-stream.com:3885/stream/play.m3u8
 #EXTINF:-1 tvg-id="MPlusTvNeamt.ro" tvg-name="RO - M Plus Tv Neamt", M Plus Tv Neamt
@@ -195,6 +183,8 @@ https://live.nasul.tv/live/stream.m3u8
 https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="N24Plus.ro" tvg-name="RO - N 24 Plus", N 24 Plus
 https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
+#EXTINF:-1 tvg-id="NCN.ro" tvg-name="RO - NCN", NCN
+https://hls01ns.antenaplay.ro/hls/ncn-sd/index.m3u8
 #EXTINF:-1 tvg-id="NostalgiaTv.ro" tvg-name="RO - Nostalgia Tv", Nostalgia Tv
 https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8
 #EXTINF:-1 tvg-id="NovaPressTv.ro" tvg-name="RO - Nova Press Tv", Nova Press Tv
@@ -245,8 +235,6 @@ https://live.sangeorztv.ro:8443/live/index.m3u8
 https://live.senstv.ro/live/senstv_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="SperantaTv.ro" tvg-name="RO - Speranta Tv", Speranta Tv
 https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
-#EXTINF:-1 tvg-id="SportExtra.ro" tvg-name="RO - Sport Extra", Sport Extra
-https://tvextra-hls.b-cdn.net/sportextra/sportextra.m3u8
 #EXTINF:-1 tvg-id="StirileProTv.ro" tvg-name="RO - Stirile Pro Tv", Stirile Pro Tv
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist/rum/live_fullhd.m3u8
 #EXTINF:-1 tvg-id="SuperTv.ro" tvg-name="RO - Super Tv", Super Tv
